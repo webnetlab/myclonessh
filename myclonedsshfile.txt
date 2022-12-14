@@ -1,0 +1,1 @@
+I made a mistake in my previous cloned repo, I had to restart my github and I did clone my repo in the process. Hence, I have to start over by creating a new repo, clone it to my local device and then push to my server.
